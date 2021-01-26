@@ -1,5 +1,5 @@
 const EntityBase = require('./EntityBase');
-const Util = require('./util');
+const Util = require('../util');
 
 class Employee extends EntityBase {
 

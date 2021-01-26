@@ -1,0 +1,1 @@
+Entendendo o contexto this, Closures, IIFE e o Objeto Proxy em JS
